@@ -3,6 +3,8 @@ title: "Keamanan Data saat Menggunakan AI"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Panduan menjaga keamanan dan privasi data ketika menggunakan layanan AI, mulai dari memilih alat yang aman hingga kebiasaan digital yang sehat."
+meta_title: "Keamanan Data saat Menggunakan AI"
+meta_description: "Panduan menjaga keamanan dan privasi data saat memakai layanan AI, dari memilih alat yang aman hingga kebiasaan digital yang melindungi informasi pribadi."
 tags: ["keamanan data", "privasi", "keamanan digital", "ai"]
 ---
 

@@ -3,6 +3,8 @@ title: "AI untuk Produktivitas Kerja"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Cara memanfaatkan kecerdasan buatan untuk meningkatkan produktivitas kerja, dari otomasi tugas rutin hingga kolaborasi tim yang lebih efektif."
+meta_title: "Memanfaatkan AI untuk Produktivitas Kerja"
+meta_description: "Cara memanfaatkan AI untuk produktivitas kerja: otomasi tugas rutin, analisis data, dan kolaborasi tim yang lebih efektif tanpa mengorbankan kualitas."
 tags: ["produktivitas", "otomasi", "dunia kerja", "ai"]
 ---
 

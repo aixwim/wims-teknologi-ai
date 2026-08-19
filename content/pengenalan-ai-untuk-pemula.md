@@ -3,6 +3,8 @@ title: "Pengenalan AI untuk Pemula"
 date: "2026-08-18"
 category: "Teknologi"
 excerpt: "Memahami kecerdasan buatan dari dasar: apa itu AI, cara kerjanya, jenis-jenisnya, serta contoh penerapannya dalam kehidupan sehari-hari."
+meta_title: "Pengenalan AI untuk Pemula dari Dasar"
+meta_description: "Pahami kecerdasan buatan dari dasar: apa itu AI, cara kerjanya, jenis-jenisnya, dan contoh penerapannya dalam kehidupan sehari-hari tanpa jargon rumit."
 tags: ["kecerdasan buatan", "ai untuk pemula", "dasar ai"]
 ---
 

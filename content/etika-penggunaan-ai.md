@@ -3,6 +3,8 @@ title: "Etika Penggunaan AI"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Memahami prinsip etika saat menggunakan kecerdasan buatan: tanggung jawab, transparansi, privasi, dan dampak sosial yang perlu diperhatikan."
+meta_title: "Etika Penggunaan AI yang Bertanggung Jawab"
+meta_description: "Prinsip etika saat menggunakan AI: transparansi, tanggung jawab, perlindungan privasi, dan dampak sosial yang perlu diperhatikan setiap pengguna."
 tags: ["etika ai", "tanggung jawab", "privasi", "kecerdasan buatan"]
 ---
 

@@ -3,6 +3,8 @@ title: "Masa Depan AI di Indonesia"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Melihat peluang dan tantangan kecerdasan buatan di Indonesia: potensi ekonomi, kesiapan sumber daya manusia, dan langkah menuju adopsi yang inklusif."
+meta_title: "Masa Depan AI di Indonesia: Peluang dan Tantangan"
+meta_description: "Simak peluang dan tantangan AI di Indonesia, dari potensi ekonomi, kesiapan sumber daya manusia, hingga langkah menuju adopsi AI yang inklusif."
 tags: ["masa depan ai", "indonesia", "teknologi", "peluang"]
 ---
 

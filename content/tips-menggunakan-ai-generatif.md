@@ -3,6 +3,8 @@ title: "Tips Menggunakan AI Generatif"
 date: "2026-08-18"
 category: "Teknologi"
 excerpt: "Panduan praktis memanfaatkan AI generatif untuk menulis, membuat konten, dan menyelesaikan pekerjaan secara efektif dan bertanggung jawab."
+meta_title: "Tips Menggunakan AI Generatif secara Efektif"
+meta_description: "Panduan memanfaatkan AI generatif untuk menulis dan membuat konten: menyusun perintah jelas, memeriksa hasil, dan memakainya secara bertanggung jawab."
 tags: ["ai generatif", "chatbot", "tips menulis"]
 ---
 

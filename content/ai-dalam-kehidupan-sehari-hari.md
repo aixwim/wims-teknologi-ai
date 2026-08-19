@@ -3,6 +3,8 @@ title: "AI dalam Kehidupan Sehari-hari"
 date: "2026-08-18"
 category: "Teknologi"
 excerpt: "Mengenal beragam cara kecerdasan buatan membantu pekerjaan dan aktivitas harian kita, dari asisten virtual hingga rekomendasi layanan."
+meta_title: "AI dalam Kehidupan Sehari-hari"
+meta_description: "Di mana saja AI bekerja dalam kehidupan sehari-hari? Simak penerapannya di rumah, ponsel, tempat kerja, hingga belanja agar memakainya secara bijak."
 tags: ["ai sehari-hari", "penerapan ai", "teknologi"]
 ---
 

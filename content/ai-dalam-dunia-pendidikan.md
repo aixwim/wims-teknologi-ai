@@ -3,6 +3,8 @@ title: "AI dalam Dunia Pendidikan"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Peran kecerdasan buatan dalam pendidikan: pembelajaran personal, bantuan bagi guru, dan tantangan yang perlu dihadapi pelajar dan pendidik."
+meta_title: "Peran AI dalam Dunia Pendidikan"
+meta_description: "Pelajari peran AI dalam pendidikan: pembelajaran personal, bantuan bagi guru, serta tantangan dan etika yang perlu dihadapi pelajar dan pendidik."
 tags: ["pendidikan", "pembelajaran", "ai", "teknologi pendidikan"]
 ---
 

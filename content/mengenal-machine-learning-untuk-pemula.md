@@ -3,6 +3,8 @@ title: "Mengenal Machine Learning untuk Pemula"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Belajar machine learning dari nol: konsep dasar, cara kerja model belajar dari data, dan contoh penerapannya dalam kehidupan sehari-hari."
+meta_title: "Mengenal Machine Learning untuk Pemula"
+meta_description: "Belajar machine learning dari nol: pahami konsep dasar cara kerja model belajar dari data, serta contoh penerapannya dalam kehidupan sehari-hari."
 tags: ["machine learning", "pemula", "data", "kecerdasan buatan"]
 ---
 
